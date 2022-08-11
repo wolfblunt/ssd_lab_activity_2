@@ -1,14 +1,14 @@
 # SSD Lab 2 Readme File
 
 #### Q1. 
-Run Command : ./q1.sh filepath
+**Run Command** : ./q1.sh filepath
 
-Output: prints the middle line of the file
+**Output** : prints the middle line of the file
 
 #### Q2.
-Run Command : ./q2/sh
+**Run Command** : ./q2/sh
 
-Output: print names of all the shell that belongs to '/usr'
+**Output**: print names of all the shell that belongs to '/usr'
 
 
 ## Code credit
