@@ -1,4 +1,4 @@
-# SSD Lab 2 Readme File
+# SSD Lab 2 Readme File1
 
 #### Q1. 
 **Run Command** : ./q1.sh filepath
